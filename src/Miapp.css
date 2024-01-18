@@ -1,0 +1,32 @@
+body {
+  background-color: gray;  
+  text-align: center;
+  
+}
+
+#root{
+    width: 100%;
+}
+
+h1{
+    color: black;
+}
+
+#pankekes{
+    background-color: red;
+    
+}
+
+#tilin{
+    background-color: greenyellow;
+}
+
+#aña{
+    background-color: blue;
+}
+
+.btns{
+    color: black;
+    margin-left: 1px;
+    margin-left: 1px;
+}
